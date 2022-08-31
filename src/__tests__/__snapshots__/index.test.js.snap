@@ -1,0 +1,218 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should match the snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="App"
+      >
+        <div>
+          <nav
+            class="sc-bczRLJ hVUxfU"
+          >
+            <div
+              class="sc-hKMtZM fcxJaz"
+            >
+              <a
+                aria-current="page"
+                class="sc-gsnTZi eWKMPY active"
+                href="/"
+              >
+                <svg
+                  class="sc-dkzDqf eAqjng"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 256 512"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M31.7 239l136-136c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9L127.9 256l96.4 96.4c9.4 9.4 9.4 24.6 0 33.9L201.7 409c-9.4 9.4-24.6 9.4-33.9 0l-136-136c-9.5-9.4-9.5-24.6-.1-34z"
+                  />
+                </svg>
+              </a>
+              <h3>
+                2022
+              </h3>
+            </div>
+          </nav>
+        </div>
+        <main>
+          <div>
+            <div
+              class="sc-papXJ eZOcNh"
+            >
+              <h1
+                class="sc-jqUVSM dcyYJS"
+              >
+                Covid-19 Metrics
+              </h1>
+              <img
+                alt="mapa-mundi"
+                src="mapa-mundi.png"
+                width="400"
+              />
+            </div>
+            <input
+              class="sc-iqcoie hUfBCe"
+              id="serchBar"
+              name="search"
+              placeholder="Search by country here"
+              type="text"
+            />
+            <div
+              class="sc-iBkjds fFWCon"
+            />
+          </div>
+        </main>
+        <div
+          class="sc-fnykZs eJWBUP"
+        >
+          <h3>
+            <a
+              class="sc-hAZoDl jiwGmQ"
+              href="https://github.com/ogagaoghene/metrics-app"
+            >
+              Covid-19 Metrics
+            </a>
+          </h3>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="App"
+    >
+      <div>
+        <nav
+          class="sc-bczRLJ hVUxfU"
+        >
+          <div
+            class="sc-hKMtZM fcxJaz"
+          >
+            <a
+              aria-current="page"
+              class="sc-gsnTZi eWKMPY active"
+              href="/"
+            >
+              <svg
+                class="sc-dkzDqf eAqjng"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 256 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M31.7 239l136-136c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9L127.9 256l96.4 96.4c9.4 9.4 9.4 24.6 0 33.9L201.7 409c-9.4 9.4-24.6 9.4-33.9 0l-136-136c-9.5-9.4-9.5-24.6-.1-34z"
+                />
+              </svg>
+            </a>
+            <h3>
+              2022
+            </h3>
+          </div>
+        </nav>
+      </div>
+      <main>
+        <div>
+          <div
+            class="sc-papXJ eZOcNh"
+          >
+            <h1
+              class="sc-jqUVSM dcyYJS"
+            >
+              Covid-19 Metrics
+            </h1>
+            <img
+              alt="mapa-mundi"
+              src="mapa-mundi.png"
+              width="400"
+            />
+          </div>
+          <input
+            class="sc-iqcoie hUfBCe"
+            id="serchBar"
+            name="search"
+            placeholder="Search by country here"
+            type="text"
+          />
+          <div
+            class="sc-iBkjds fFWCon"
+          />
+        </div>
+      </main>
+      <div
+        class="sc-fnykZs eJWBUP"
+      >
+        <h3>
+          <a
+            class="sc-hAZoDl jiwGmQ"
+            href="https://github.com/ogagaoghene/metrics-app"
+          >
+            Covid-19 Metrics
+          </a>
+        </h3>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
