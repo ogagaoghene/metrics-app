@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Metrics-Web App
-> A mobile web application to check a list of metrics (numeric values) from an external API that provides numeric data about a Covid-19 cases across different countries and continents.
+> A mobile web application to check a list of metrics (numeric values) from an external API that provides numeric data about Covid-19 cases across different countries and continents.
 
 ## Built With
 
