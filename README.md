@@ -37,11 +37,11 @@ Give a ⭐️ if you like this project!
 
 ## See Live
 
-[Live project to be added soon](https://ogagaoghene-metrics-app.netlify.app/)
+[Check this link](https://ogagaoghene-metrics-app.netlify.app/)
 
-## See Video Link
+## See Video
 
-[Video link](https://www.loom.com/share/3a497618c1744460beab392cce23b88f)
+[Check this link](https://www.loom.com/share/3a497618c1744460beab392cce23b88f)
 
 ## 📝 License
 
