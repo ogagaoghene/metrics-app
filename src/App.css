@@ -10,6 +10,7 @@ html,
 body {
   max-width: 100%;
   overflow-x: hidden;
+  text-align: center;
   background-color: #000;
   font-family: 'Lato', sans-serif;
   color: rgb(236, 76, 138);

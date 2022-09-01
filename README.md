@@ -35,10 +35,17 @@ Give a ⭐️ if you like this project!
 
 - [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/) 
 
+## See Live
+
+[Live project to be added soon](https://www.loom.com/share/9186ba49d9564f8faadb5942f08e44cf)
+
+## See Video Link
+
+[Live project to be added soon](https://www.loom.com/share/9186ba49d9564f8faadb5942f08e44cf)
+
 ## 📝 License
 
 This project is [MIT](./LICENCE) licensed.
-
 
 
 
