@@ -1,18 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
 
-*,
-*::before,
-*::after {
+*{
   box-sizing: border-box;
-  text-align: center;
-  font-family: 'Lato', sans-serif;
-  justify-self: center;
   margin: 0;
   padding: 0;
 }
 
+html,
 body {
-  background-color: #000;
-  color: rgb(236, 76, 138);
+  max-width: 100%;
   overflow-x: hidden;
+  background-color: #000;
+  font-family: 'Lato', sans-serif;
+  color: rgb(236, 76, 138);
 }
