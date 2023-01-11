@@ -30,6 +30,15 @@ Start the server
 ```bash
   npm run start
 ```
+
+## See Live
+
+[Check this link](https://ogagaoghene-metrics-app.netlify.app/)
+
+## See Video
+
+[Check this link](https://www.loom.com/share/3a497618c1744460beab392cce23b88f)
+
 ## Author
 
 👤 **Esi Ogagaoghene**
@@ -51,14 +60,6 @@ Give a ⭐️ if you like this project!
 - Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio).
 
 - [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/) 
-
-## See Live
-
-[Check this link](https://ogagaoghene-metrics-app.netlify.app/)
-
-## See Video
-
-[Check this link](https://www.loom.com/share/3a497618c1744460beab392cce23b88f)
 
 ## 📝 License
 
