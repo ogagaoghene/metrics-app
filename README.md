@@ -1,18 +1,35 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Metrics-Web App
-> A mobile web application to check a list of metrics (numeric values) from an external API that provides numeric data about Covid-19 cases across different countries and continents.
+# Covid-19 Metrics App
 
-## Built With
+> A web app that consumes an external API to provide numeric data about Covid-19 cases in different countries and continents..
 
-- React
-- Redux
+## Tech Stack
 
-## Getting Started
+**Client:** React, Redux
 
-- Please clone this repository on your local pc as usual and run `npm i`;
-- Run `npm start` and feel free to code away.
+## Run Locally
+Clone the project
 
+```bash
+  git clone https://github.com/ogagaoghene/metrics-app.git
+```
+Go to the project directory
+
+```bash
+  cd metrics-app
+```
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
 ## Author
 
 👤 **Esi Ogagaoghene**
