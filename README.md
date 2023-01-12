@@ -2,7 +2,7 @@
 
 # Covid-19 Metrics App
 
-> A metric app that pulls information from an open API to allow users check for and view Covid-19 cases in different countries and continent.
+> A metrics app that pulls from an external API to allow users search for and view a list of metrics (numeric values) that provides numeric data about Covid-19 cases across different countries and continents. Built with JavaScript, React, Redux.
 
 ## Tech Stack
 
