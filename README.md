@@ -31,11 +31,11 @@ Start the server
   npm run start
 ```
 
-## See Live
+## Demo
 
 [Check this link](https://ogagaoghene-metrics-app.netlify.app/)
 
-## See Video
+## Video
 
 [Check this link](https://www.loom.com/share/3a497618c1744460beab392cce23b88f)
 
